@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img{
+    width: 100%;
+    height: auto;
+}
+
+.tool{
+    background-image: url("/assets/image/image2.jpg");
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+
+}
+
+h1{
+    padding-bottom: 70px;
+    text-align: center;
+    color: antiquewhite;
+    font-size: 50px;
+    padding-top: 200px;
+    padding-left: 78px;
+    width: 600px;
+}
+
+.main{
+    margin: auto ;
+    width: min-content;
+    height: auto;
+
+}
+
+button{
+    border-radius: 50px;
+    text-align: center;
+    padding: 10px 40px;
+    color: rgb(212, 201, 201);
+    background: transparent;
+}
+
+button:hover{
+    background-color: rgb(247, 245, 242)
+}
+
+.brain{
+    text-align: center;
+}
+
+.best-food{
+    background-color: beige;
+}
+
+.web{
+    color: black;
+    font-size: 45px;
+    margin: auto;
+
+}
+
+.mainly{
+    color: black;
+    font-size: 25px;
+    padding: auto;
+    text-align: center;
+}
+
+
